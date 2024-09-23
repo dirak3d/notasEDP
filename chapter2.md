@@ -11,7 +11,7 @@ $$
 Esta definición proviene del análisis infinitesimal, y nos permite calcular la tasa de cambio de una función en un punto.
 
 ### Hipótesis 2.1
-Si una función \( f \) es continua en un intervalo cerrado \([a, b]\), entonces existe al menos un punto \( c \) en \((a, b)\) tal que:
+Si una función $f$ es continua $\epsilon \pm $ en un intervalo cerrado $[a, b]$, entonces existe al menos un punto $c$ en $(a, b)$ tal que:
 
 $$
 f'(c) = \frac{f(b) - f(a)}{b - a}
